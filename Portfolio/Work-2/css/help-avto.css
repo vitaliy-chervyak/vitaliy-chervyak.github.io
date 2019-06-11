@@ -1,0 +1,38 @@
+@import url(reset.css);
+
+#content-title {
+	padding-bottom: 10px;
+}
+
+.help {
+	float: left;
+}
+
+.services {
+	float: left;
+	margin-left: 20px;
+	color: #0e6bcb;
+}
+
+#services-title {
+	margin: 0 10px 10px 10px;
+}
+
+.services ul li {
+	padding: 7px 0;
+}
+
+.content-text {
+	width: 710px;
+	overflow: hidden;
+	margin-bottom: 20px;
+}
+
+.content-text h3 {
+	padding: 10px 0;
+
+}
+
+.content-text p {
+	line-height: 1.4;
+}

@@ -1,0 +1,60 @@
+@font-face {
+font-family: "PTSans-bold";
+src: url("../fonts/PTSans-bold/PTSans-bold.eot");
+src: url("../fonts/PTSans-bold/PTSans-bold.eot?#iefix") format("eot"),
+url("../fonts/PTSans-bold/PTSans-bold.woff") format("woff"),
+url("../fonts/PTSans-bold/PTSans-bold.ttf") format("truetype");
+font-weight: bold;
+font-style: normal;
+}
+
+
+@font-face {
+font-family: "Calibri-bold";
+src: url("../fonts/Calibri-bold/Calibri-bold.eot");
+src: url("../fonts/Calibri-bold/Calibri-bold.eot?#iefix") format("eot"),
+url("../fonts/Calibri-bold/Calibri-bold.woff") format("woff"),
+url("../fonts/Calibri-bold/Calibri-bold.ttf") format("truetype");
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: "PTSans-regular";
+src: url("../fonts/PTSans-regular/PTSans-regular.eot");
+src: url("../fonts/PTSans-regular/PTSans-regular.eot?#iefix") format("eot"),
+url("../fonts/PTSans-regular/PTSans-regular.woff") format("woff"),
+url("../fonts/PTSans-regular/PTSans-regular.ttf") format("truetype");
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: "MyriadProBold";
+src: url("../fonts/MyriadProBold/MyriadProBold.eot");
+src: url("../fonts//MyriadProBold.eot?#iefix") format("eot"),
+url("../fonts/MyriadProBold/MyriadProBold.woff") format("woff"),
+url("../fonts/MyriadProBold/MyriadProBold.ttf") format("truetype");
+font-weight: bold;
+font-style: normal;
+}
+
+@font-face {
+font-family: "devroyun";
+src: url("../fonts/devroyun/devroyun.eot");
+src: url("../fonts//devroyun.eot?#iefix") format("eot"),
+url("../fonts/devroyun/devroyun.woff") format("woff"),
+url("../fonts/devroyun/devroyun.ttf") format("truetype");
+font-weight: bold;
+font-style: normal;
+}
+
+@font-face {
+font-family: "TimesNewRoman";
+src: url("../fonts/TimesNewRoman/TimesNewRoman.eot");
+src: url("../fonts//TimesNewRoman.eot?#iefix") format("eot"),
+url("../fonts/TimesNewRoman/TimesNewRoman.woff") format("woff"),
+url("../fonts/TimesNewRoman/TimesNewRoman.ttf") format("truetype");
+font-weight: bold;
+font-style: normal;
+}

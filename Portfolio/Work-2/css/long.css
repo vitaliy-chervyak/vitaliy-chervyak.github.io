@@ -1,0 +1,19 @@
+.long {
+	padding-bottom: 20px;
+}
+
+
+.long h1{
+	padding-bottom: 10px;
+}
+
+.long h3 {
+	padding: 10px 0;
+	opacity: 0.9;
+}
+
+.long p {
+	line-height: 1.4;
+} 
+
+

@@ -1,0 +1,54 @@
+@font-face {
+font-family: "Airbag-Regular1";
+src: url("../fonts/Airbag-Regular1/Airbag-Regular1.eot");
+src: url("../fonts/Airbag-Regular1/Airbag-Regular1.eot?#iefix") format("eot"),
+url("../fonts/Airbag-Regular1/Airbag-Regular1.woff") format("woff"),
+url("../fonts/Airbag-Regular1/Airbag-Regular1.woff") format("woff2"),
+url("../fonts/Airbag-Regular1/Airbag-Regular1.ttf") format("truetype");
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: "Montserrat-Bold";
+src: url("../fonts/Montserrat-Bold/Montserrat-Bold.eot");
+src: url("../fonts/Montserrat-Bold/Montserrat-Bold.eot?#iefix") format("eot"),
+url("../fonts/Montserrat-Bold/Montserrat-Bold.woff") format("woff"),
+url("../fonts/Montserrat-Bold/Montserrat-Bold.woff") format("woff2"),
+url("../fonts/Montserrat-Bold/Montserrat-Bold.ttf") format("truetype");
+font-weight: bold;
+font-style: normal;
+}
+
+@font-face {
+font-family: "OpenSansExtrabold";
+src: url("../fonts/OpenSansExtrabold/OpenSansExtrabold.eot");
+src: url("../fonts/OpenSansExtrabold/OpenSansExtrabold.eot?#iefix") format("eot"),
+url("../fonts/OpenSansExtrabold/OpenSansExtrabold.woff") format("woff"),
+url("../fonts/OpenSansExtrabold/OpenSansExtrabold.woff") format("woff2"),
+url("../fonts/OpenSansExtrabold/OpenSansExtrabold.ttf") format("truetype");
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: "OpenSansRegular";
+src: url("../fonts/OpenSansRegular/OpenSansRegular.eot");
+src: url("../fonts/OpenSansRegular/OpenSansRegular.eot?#iefix") format("eot"),
+url("../fonts/OpenSansRegular/OpenSansRegular.woff") format("woff"),
+url("../fonts/OpenSansRegular/OpenSansRegular.woff") format("woff2"),
+url("../fonts/OpenSansRegular/OpenSansRegular.ttf") format("truetype");
+font-weight: normal;
+font-style: normal;
+}
+
+@font-face {
+font-family: "MyriadPro";
+src: url("../fonts/MyriadPro/MyriadPro.eot");
+src: url("../fonts/MyriadPro/MyriadPro.eot?#iefix") format("eot"),
+url("../fonts/MyriadPro/MyriadPro.woff") format("woff"),
+url("../fonts/MyriadPro/MyriadPro.woff") format("woff2"),
+url("../fonts/MyriadPro/MyriadPro.ttf") format("truetype");
+font-weight: normal;
+font-style: normal;
+}

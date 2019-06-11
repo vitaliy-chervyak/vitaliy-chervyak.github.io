@@ -1,0 +1,87 @@
+@font-face {
+  font-family: "WisdomScriptAJ";
+  src: url("../fonts/WisdomScriptAJ/WisdomScriptAJ.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/WisdomScriptAJ/WisdomScriptAJ.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/WisdomScriptAJ/WisdomScriptAJ.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/WisdomScriptAJ/WisdomScriptAJ.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/WisdomScriptAJ/WisdomScriptAJ.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PoppinsBold";
+  src: url("../fonts/PoppinsBold/PoppinsBold.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/PoppinsBold/PoppinsBold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/PoppinsBold/PoppinsBold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/PoppinsBold/PoppinsBold.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/PoppinsBold/PoppinsBold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PoppinsMedium";
+  src: url("../fonts/PoppinsMedium/PoppinsMedium.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/PoppinsMedium/PoppinsMedium.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/PoppinsMedium/PoppinsMedium.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/PoppinsMedium/PoppinsMedium.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/PoppinsMedium/PoppinsMedium.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PoppinsRegular";
+  src: url("../fonts/PoppinsRegular/PoppinsRegular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/PoppinsRegular/PoppinsRegular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/PoppinsRegular/PoppinsRegular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/PoppinsRegular/PoppinsRegular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/PoppinsRegular/PoppinsRegular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PoppinsSemiBold";
+  src: url("../fonts/PoppinsSemiBold/PoppinsSemiBold.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/PoppinsSemiBold/PoppinsSemiBold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/PoppinsSemiBold/PoppinsSemiBold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/PoppinsSemiBold/PoppinsSemiBold.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/PoppinsSemiBold/PoppinsSemiBold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "LibreBaskervilleBold";
+  src: url("../fonts/LibreBaskervilleBold/LibreBaskervilleBold.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/LibreBaskervilleBold/LibreBaskervilleBold.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/LibreBaskervilleBold/LibreBaskervilleBold.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/LibreBaskervilleBold/LibreBaskervilleBold.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/LibreBaskervilleBold/LibreBaskervilleBold.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "LibreBaskervilleRegular";
+  src: url("../fonts/LibreBaskervilleRegular/LibreBaskervilleRegular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/LibreBaskervilleRegular/LibreBaskervilleRegular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/LibreBaskervilleRegular/LibreBaskervilleRegular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/LibreBaskervilleRegular/LibreBaskervilleRegular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/LibreBaskervilleRegular/LibreBaskervilleRegular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "SacramentoRegular";
+  src: url("../fonts/SacramentoRegular/SacramentoRegular.eot"); /* IE9 Compat Modes */
+  src: url("../fonts/SacramentoRegular/SacramentoRegular.eot?#iefix") format("embedded-opentype"), /* IE6-IE8 */
+    url("../fonts/SacramentoRegular/SacramentoRegular.ttf") format("truetype"), /* Safari, Android, iOS */
+    url("../fonts/SacramentoRegular/SacramentoRegular.woff") format("woff"), /* Modern Browsers */
+    url("../fonts/SacramentoRegular/SacramentoRegular.woff2") format("woff2"); /* Modern Browsers */
+  font-weight: normal;
+  font-style: normal;
+}
