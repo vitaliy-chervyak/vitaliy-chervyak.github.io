@@ -1,0 +1,51 @@
+@media screen and (max-width:992px) {
+  body {
+    font-size: 20px;
+    header {
+      padding: 3rem 0rem;
+    }
+    header p {
+      color: $blue-color;
+    }
+    .popcat {
+      font-size: 1em;
+    }
+    .popgoods {
+      .row {
+        .title {
+          margin: 0;
+        }
+        h4 {
+          padding: 1rem;
+          margin: 1rem 3rem;
+        }
+        padding: 0;
+        div {
+           margin-bottom: 1.5rem;
+        }
+      }
+    }
+    .form-zamer {
+      button {
+          margin-bottom: 1.5rem;
+      }
+    }
+  }
+}
+
+@media screen and (max-width: 768px) {
+  body {
+   .title {
+    &:before,&:after {
+      content: '';
+       display: none;
+        }
+       } 
+    header {
+      p {
+        font-size: 0.8em;
+        text-align: center;
+      }
+    }
+  }
+}
